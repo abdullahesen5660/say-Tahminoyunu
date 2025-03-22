@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\bin\Debug\satıTahminOyunu.exe.config
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\bin\Debug\satıTahminOyunu.exe
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\bin\Debug\satıTahminOyunu.pdb
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\obj\Debug\satıTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\obj\Debug\satıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\obj\Debug\satıTahminOyunu.exe
+C:\Users\Abdul\Desktop\satıTahminOyunu\satıTahminOyunu\obj\Debug\satıTahminOyunu.pdb
